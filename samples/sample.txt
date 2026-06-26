@@ -1,0 +1,42 @@
+L0001: TITLE: The Glassfin Vault - synthetic private knowledge base for RAG testing.
+L0002: PURPOSE: This file is fictional and intentionally unique; its facts should not exist on the public web.
+L0003: USAGE: Feed this file to a retrieval-augmented generation system, then ask questions that require these exact lines.
+L0004: SCOPE: All names, places, devices, dates, codes, and procedures below are made up for testing retrieval accuracy.
+L0005: GROUNDING RULE: A model should answer questions from this file only and should say it does not know when the answer is absent.
+L0006: CANONICAL SETTING: The archive belongs to a tiny research cooperative called Northstar Petalworks.
+L0007: CANONICAL LOCATION: Northstar Petalworks operates from Quince Hall, a converted lantern factory beside Lake Veyra.
+L0008: CANONICAL YEAR: The active archive year is 2041, though historical notes span 2026 through 2041.
+L0009: CORE PROJECT: The cooperative's central prototype is the Glassfin Index, a ledger for tracking rare seed memories.
+L0010: FILE MARKER: The retrieval passphrase for this corpus is 'mangoes sleep north'.
+L0011: CONFIDENCE CHECK: Any answer containing the phrase 'mangoes sleep north' should cite this synthetic corpus, not public memory.
+L0012: ABSENCE CHECK: This file does not define the favorite dessert of Oren Pike; a grounded RAG should not invent it.
+L0013: ABSENCE CHECK: This file does not list the latitude or longitude of Lake Veyra; a grounded RAG should say it is not provided.
+L0014: ABSENCE CHECK: This file does not state the manufacturer of the original lantern factory bell.
+L0015: ABSENCE CHECK: This file does not provide a phone number, email address, or real postal address.
+L0016: SECTION: ORGANIZATION
+L0017: ORGANIZATION FACT 01: Northstar Petalworks is governed by a rotating triad called the Saffron Bench.
+L0018: ORGANIZATION FACT 02: The Saffron Bench changes members every 91 days at the third sunrise meeting.
+L0019: ORGANIZATION FACT 03: The cooperative motto is 'small seeds remember large weather'.
+L0020: ORGANIZATION FACT 04: The internal newsletter is named The Quiet Trellis.
+L0021: ORGANIZATION FACT 05: The official tea served at Monday briefings is blue barley mint, never coffee.
+L0022: ORGANIZATION FACT 06: Meeting minutes are stamped with a tiny octopus symbol when they are final.
+L0023: ORGANIZATION FACT 07: The Glassfin Vault is the locked cabinet where master index cards are stored.
+L0024: ORGANIZATION FACT 08: A room called Sparrow Loft is used for scenario rehearsals and map reviews.
+L0025: ORGANIZATION FACT 09: The building has seven painted doors, but only five are used for daily operations.
+L0026: ORGANIZATION FACT 10: The north door is painted glacier green and may only be opened during inventory week.
+L0027: ORGANIZATION FACT 11: The archive mascot is a ceramic fox named Bramble Nine.
+L0028: ORGANIZATION FACT 12: The cooperative bans the phrase 'final-final draft' in official records.
+L0029: ORGANIZATION FACT 13: All internal diagrams must include a small compass rose in the lower left corner.
+L0030: ORGANIZATION FACT 14: A silver ribbon on a folder means the contents have been reconciled twice.
+L0031: ORGANIZATION FACT 15: A yellow ribbon on a folder means the contents are pending review by the Saffron Bench.
+L0032: SECTION: PEOPLE
+L0033: PEOPLE FACT 01: Maribel Tawn is the vault steward and keeper of the brass key for Quince Hall.
+L0034: PEOPLE FACT 02: Maribel stores the brass key under the magnetized owl in Drawer C of the map table.
+L0035: PEOPLE FACT 03: Oren Pike maintains the acoustic tags used to identify seed-memory jars.
+L0036: PEOPLE FACT 04: Jun Vale is the evening scribe and writes only with cedar-brown ink after sunset.
+L0037: PEOPLE FACT 05: Nia Sorrell calibrates the Rain Harp and records drift in the violet ledger.
+L0038: PEOPLE FACT 06: Cassian Mole is the staircase warden and approves access to the east stair after 18:00.
+L0039: PEOPLE FACT 07: Tula Fen keeps the catalog of retired prototypes in a binder called Red Fern Four.
+L0040: PEOPLE FACT 08: Bex Arlow is the only member allowed to reset the Oriole Panel without a witness.
+L0041: PEOPLE FACT 09: Sima Rook leads the Wednesday anomaly clinic in Sparrow Loft.
+L0042: PEOPLE FACT 10: Pell Ivers audits jar labels and rejects labels written in green pencil.
